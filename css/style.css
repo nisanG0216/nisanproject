@@ -20,7 +20,7 @@ body {
 
 /* Header */
 header {
-  background: #454ea15a;
+  background: #003cff5a;
   color: #fff;
   padding: 20px 0;
 }
@@ -58,9 +58,15 @@ footer {
   background: #333;
   color: #fff;
   text-align: center;
-  padding: 20px 0;
+  padding: 20px 0;  
 }
 img.logo{
 height: 80px;
 width: 80px;
+}
+.social img{
+  width: 40px;
+}
+.footer-content {
+ width: 80px;
 }
